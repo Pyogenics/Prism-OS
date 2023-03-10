@@ -37,6 +37,7 @@
 
 		<Reference Include="Cosmos.Core">
 			<HintPath>..\..\..\AppData\Roaming\Cosmos User Kit\Kernel\Cosmos.Core.dll</HintPath>
+			<HintPath>/opt/cosmos/Kernel/Cosmos.Core.dll</HintPath>
 			<CopyLocalSatelliteAssemblies>False</CopyLocalSatelliteAssemblies>
 			<CopyLocal>False</CopyLocal>
 			<Private>True</Private>
@@ -44,6 +45,7 @@
 
 		<Reference Include="Cosmos.HAL2">
 			<HintPath>..\..\..\AppData\Roaming\Cosmos User Kit\Kernel\Cosmos.HAL2.dll</HintPath>
+			<HintPath>/opt/cosmos/Kernel/Cosmos.HAL2.dll</HintPath>
 			<CopyLocalSatelliteAssemblies>False</CopyLocalSatelliteAssemblies>
 			<CopyLocal>False</CopyLocal>
 			<Private>True</Private>
@@ -51,6 +53,7 @@
 
 		<Reference Include="Cosmos.System2">
 			<HintPath>..\..\..\AppData\Roaming\Cosmos User Kit\Kernel\Cosmos.System2.dll</HintPath>
+			<HintPath>/opt/cosmos/Kernel/Cosmos.System2.dll</HintPath>
 			<CopyLocalSatelliteAssemblies>False</CopyLocalSatelliteAssemblies>
 			<CopyLocal>False</CopyLocal>
 			<Private>True</Private>
